@@ -1,0 +1,2 @@
+age,sex,bmi,children,smoker,region,predicted_charges
+54,female,33.1,2,yes,southeast,45411.15
