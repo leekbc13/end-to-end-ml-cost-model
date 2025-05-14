@@ -70,11 +70,10 @@ end-to-end-ml-cost-model/
 ````
 
 2. Run the cleaning and model scripts:
-
    ```bash
    python code/02_data_cleaning.py
    python code/03_train_and_save_model.py
-  ````
+````
 
 ---
 
